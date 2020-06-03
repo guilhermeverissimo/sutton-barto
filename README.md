@@ -9,8 +9,7 @@ My own implementations of exercises and examples from the introductory book of S
 01. The 10-armed Testbed (Look at the book: Section 2.3)
 
 ## License
-All directories and files are MIT Licensed. Feel free to use the ipython notebooks as you please.
-If you do use them, a link back to https://adriansarno.github.io/ would be appreciated, but is not required.
+All directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
 
 ## References
 - [1] Sutton, R. S. & Barto, A. G. (2018), Reinforcement Learning: An Introduction, The MIT Press.
