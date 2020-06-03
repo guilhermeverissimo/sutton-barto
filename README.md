@@ -1,8 +1,8 @@
-# Reinforcement Learning Implementations
-My own implementations of exercises and examples from the introductory book of Sutton & Barto [1]
+# Reinforcement Learning - An Introduction
+Exercises and examples from the introductory book of Sutton & Barto [1]
 
 ## Notes: 
-- All implementations are based on my own study notes and reflects my own understanding at the time of my reading.
+- All implementations are based on my own study notes and reflects my understanding at the time of my reading.
 - Each file has a summary providing information to locate the example/exercise/subject in the book.
 
 ## Contents
