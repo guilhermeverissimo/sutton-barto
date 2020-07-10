@@ -6,6 +6,7 @@ My own implementations of exercises and examples from the introductory book of S
 - Each file has a summary providing information to locate the example/exercise/subject in the book.
 
 ## Contents
+[Chapter 02](Chapter%2002)
 01. The 10-armed Testbed (Look at the book: Section 2.3)
 02. Tracking a Nonstationary Problem (Look at the book: Exercise 2.5)
 03. Optimistic Initial Values (Look at the book: Section 2.6)
