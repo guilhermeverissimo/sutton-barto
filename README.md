@@ -11,6 +11,7 @@ My own implementations of exercises and examples from the introductory book of S
 02. Tracking a Nonstationary Problem (Look at the book: Exercise 2.5)
 03. Optimistic Initial Values (Look at the book: Section 2.6)
 04. Upper Confidence Bound action selection (Look at the book: Section 2.7)
+05. Gradient Bandits Algorithm (Look at the book: Section 2.8)
 
 ## License
 All directories and files are MIT Licensed. Feel free to use contents as you please. If you do use them, a link back to https://github.com/guilhermeverissimo would be appreciated, but is not required.
